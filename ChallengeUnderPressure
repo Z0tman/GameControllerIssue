@@ -1,0 +1,57 @@
+Here I will explain how and why you should think about a way to make an universal game controller adapted to your game concept.
+
+Well, you can find any of these on the marketplace, then why implementing the manufacturing of the game controller within the game concept ?
+
+I like C++ both Python, because both of them work differently : one does compile, one does interpret.
+
+For example, your game may have a great lifespan if the score system makes the player play over the long run for new challenges.
+
+So, why not designing a game to make a python cross data collect to get to know from your own game how to reshape the game controller for the next phase ?
+
+The question would be : "How the score is being calculated ?"
+
+You should simply think of things such as: 
+                                          - curvature for the geometry, 
+                                          -the time to reverse a push-pull action button back to initial state, 
+                                          -the time hold down on a button without damaging the game controller,
+                                          - which skills are most used in which game level,
+                                          -etc
+Then, how the score should be managed to make a data which would give you a hint about how and why this game controller should be designed on this way from your own game design ?
+
+If you check for the nintendo controllers, this is a complete failure : people complains about their poor reliability.
+This is very had to think of mecanical pieces of good quality for incremental usages. Their lifespan is aimed to dropped low so that will end up in bad reviews.
+
+Howewer yet, if your design is made from a wheel system, that will make it change, because the game experience may depend straight on how 
+you allow the player to experiment your game.
+On a pc game, the player may have several options based upon the gaming peripherals proposed by gaming manufacturers such as corsair, razer, logitech, etc.
+But if you're not that famous, you may need to propose something different, because your game will be exposed to the other game usage you may not get involved with.
+
+How a wheel could be managed on a game controller ? Let's consider the mouse scroller : it is not that useful in game.
+
+That may be a mistake...What kind of game could be played based on wheels such as the mouse scroller ?
+
+Let's think about that : gauging in real time may be hard to code, but not impossible to render out. 
+That means player's practices evolve over time, and you may not be responsible for their bad uses of the game tools they own.
+
+Then, why developing that universal game controller for your game concept ?
+
+The main reason would be to gain reliability, in order to extend the lifespan of the game concept by making it unbeatable.
+
+The unbeaten part of your game would be the immortal part, difficult to design for a non experienced programmer.
+
+Howewer, I would not mention the other game component except the score because the score itself may be an independant system which is currently managed by the game maker itself.
+
+That may be a mistake not to compile in order to design the game controller at the same time as the game concept.
+
+Let's look at the VR. This is a social economic disaster. People run away from the reality with that.
+
+Bad design from the game concept may give bad game rendering on a corrupted game controller, because the result of any action may also require a great knowledge of all the
+possible moves the play would perform during the play time.
+
+Howewer, if you compile a game which pops out data that can be converted to be more specific for your universal game controller, you reduce the cost of reparation, 
+and you make it easier to access simple thing without making it expansive with higher risk of crash, which reparation would be expansive.
+
+I didn't write the scheme because there are different ways doing so.
+But I will come out with a new framework to make it possible to link a game pipeline to a game controller building guide.
+
+
